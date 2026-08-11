@@ -1,0 +1,1 @@
+ForgeStudio Website Prototype v2. Open index.html in a browser. Includes dropdown navigation, BeatForge sneak-peek carousel, BeatForge-only pricing, SkinForge Coming Soon, roadmap, mobile layout, and placeholder support bubble.
